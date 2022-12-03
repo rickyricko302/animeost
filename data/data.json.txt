@@ -1,0 +1,8 @@
+[{
+	"judulmusic": "Silhouette",
+	"linkmp3": "https://raw.githubusercontent.com/rickyricko302/animeost/main/mp3/KANA-BOON%20-%20Silhouette_dlFA0Zq1k2A.mp3",
+	"namaband": "Kana Boon",
+	"musiccover": "Kana Boon",
+	"judulpost": "OST. Naruto Shippuden",
+	"coverartikel": "https://raw.githubusercontent.com/rickyricko302/animeost/main/cover/silhouette.jpg"
+}]
