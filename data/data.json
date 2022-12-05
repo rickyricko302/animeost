@@ -5,4 +5,20 @@
 	"musiccover": "Kana Boon",
 	"judulpost": "OST. Naruto Shippuden",
 	"coverartikel": "https://raw.githubusercontent.com/rickyricko302/animeost/main/cover/silhouette.jpg"
-}]
+},
+{
+	"judulmusic": "Silhouette Bern Arlyta (Cover)",
+	"linkmp3": "https://raw.githubusercontent.com/rickyricko302/animeost/main/mp3/KANA-BOON%20-%20Silhouette%20%28Bern%20Arlyta%20Cover%29.mp3",
+	"namaband": "Bern Arlyta",
+	"musiccover": "Bern Arlyta",
+	"judulpost": "OST. Naruto Shippuden",
+	"coverartikel": "https://raw.githubusercontent.com/rickyricko302/animeost/main/cover/silhouette_arlyta.jpg"
+},{
+	"judulmusic": "Blue Bird",
+	"linkmp3": "https://raw.githubusercontent.com/rickyricko302/animeost/main/mp3/bluebird.mp3",
+	"namaband": "Ikimonogakari",
+	"musiccover": "Ikimonogakari",
+	"judulpost": "OST. Naruto Shippuden",
+	"coverartikel": "https://raw.githubusercontent.com/rickyricko302/animeost/main/cover/bluebird.jpg"
+}
+]
